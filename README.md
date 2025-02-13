@@ -10,23 +10,6 @@
 
 </div>
 
-# Main Skills #
-
-
-<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
-<a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
-
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -378,28 +361,4 @@ To contact me.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-<br/>  
-
-# Do you want to see my past work?
-## Trademarktoday Business Website
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
-## InvestFarmLand Business Website
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
-## Google Map API Delivery Site
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
-## Social Media Posting Website like Twitter
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
-<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
-## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
-## Theme & Dashboard
-<a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
