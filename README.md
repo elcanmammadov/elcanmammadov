@@ -10,21 +10,28 @@ Full Stack Web Developer with a strong background in Industrial Engineering, spe
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, SASS/SCSS, Bootstrap, Tailwind CSS, JavaScript (ES6+), TypeScript, jQuery, React.js (Hooks, Context API), Redux, Next.js, Vite
+**Frontend**
+<p> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,redux,nextjs,vite" /> </p>
 
-**Backend:** Node.js, Express.js, Core PHP, Python
+**Backend**
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" /> </p>
 
-**Databases:** PostgreSQL, MySQL, MongoDB
+**Databases**
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
 
-**DevOps & Tools:** Git, GitHub, GitLab, Docker, Webpack
+**DevOps & Tools**
+<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,webpack" /> </p>
 
-**Deployment:** Vercel, Netlify, Cloudflare
+**Deployment**
+<p> <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" /> </p>
 
-**ERP & CRM:** Odoo ERP, Bitrix24, Kommo CRM
+**Design**
+<p> <img src="https://skillicons.dev/icons?i=figma,ps" /> </p>
 
-**Project Management:** Agile, Scrum, Jira, Trello, ClickUp
+**Project Management**
+<p> <img src="https://skillicons.dev/icons?i=jira,trello" /> </p>
 
-**Design:** Figma, Canva, Adobe Photoshop, Photopea
+*ERP & CRM: Odoo ERP · Bitrix24 · Kommo CRM &nbsp;|&nbsp; Design: Canva, Photopea &nbsp;|&nbsp; PM: Agile, Scrum, ClickUp*
 
 ---
 
